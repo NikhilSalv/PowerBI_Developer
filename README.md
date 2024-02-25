@@ -1,3 +1,8 @@
+![image](https://github.com/NikhilSalv/PowerBI_Developer/assets/74225565/38938631-7dc8-49dd-a838-e2dc946de962)
+![image](https://github.com/NikhilSalv/PowerBI_Developer/assets/74225565/15717917-02fa-48f5-91e3-f730d410bad9)
+![image](https://github.com/NikhilSalv/PowerBI_Developer/assets/74225565/30f05d8b-dab3-42b8-b7b4-2e96f4c439db)
+![image](https://github.com/NikhilSalv/PowerBI_Developer/assets/74225565/fdc77848-8d14-4c37-9a8b-d0e07d1ceb35)
+![image](https://github.com/NikhilSalv/PowerBI_Developer/assets/74225565/ceafd411-d316-44b7-8795-c244d0301144)
 # PowerBI_Developer
 
 # Revenue Analysis Report Documentation
