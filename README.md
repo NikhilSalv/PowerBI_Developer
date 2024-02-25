@@ -14,22 +14,25 @@ The dataset of “Revenue Information Case Study” contains records of individu
 
 The dataset comprises the following fields:
 
-- FBU: Unique identifier for each record.
-- createdate: Date when the data entry was created.
-- invoicedate: Date of the invoice.
-- BillingStatus: Billing status (e.g., 0 for not billed).
-- Client number: Client identification number.
-- Invoicecategory: Category of the invoice (e.g., STORAGE).
-- Revenue: Revenue generated for the specified services.
-- Quantity: Quantity of items associated with the revenue.
-- Price: Price per item.
-- BASEPrice: Base price per item (not used in analysis).
-- ServiceCode: Code representing the type of service.
-- Description: Description of the service.
-- datefrom: Start date of the service period.
-- dateto: End date of the service period.
-- Monthly Value: Monthly revenue value.
-- Nr of month (months between cell Q&R): Number of months within the date range.
+| Field Name             | Description                                            |
+|------------------------|--------------------------------------------------------|
+| FBU                    | Unique identifier for each record                      |
+| createdate             | Date when the data entry was created                   |
+| invoicedate            | Date of the invoice                                    |
+| BillingStatus          | Billing status (e.g., 0 for not billed)               |
+| Client number          | Client identification number                           |
+| Invoicecategory        | Category of the invoice (e.g., STORAGE)               |
+| Revenue                | Revenue generated for the specified services          |
+| Quantity               | Quantity of items associated with the revenue         |
+| Price                  | Price per item                                         |
+| BASEPrice              | Base price per item (not used in analysis)             |
+| ServiceCode            | Code representing the type of service                  |
+| Description            | Description of the service                             |
+| datefrom               | Start date of the service period                       |
+| dateto                 | End date of the service period                         |
+| Monthly Value          | Monthly revenue value                                  |
+| Nr of month            | Number of months within the date range                 |
+
 
 ## Key Performance Indicators (KPIs)
 
