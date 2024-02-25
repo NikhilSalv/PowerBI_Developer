@@ -68,9 +68,14 @@ As shown in the picture, the slicers provide options to choose the FBU, quarter 
 
 ### KPIs
 
+<img width="854" alt="Main KPIs" src="https://github.com/NikhilSalv/PowerBI_Developer/assets/74225565/095de3b4-904f-480b-bef9-8110e7a4f55d">
+
 As shown in the above figure, the important KPIs in this project are Total Revenue, total price, and revenue contribution in percentage by top 10 clients of the company. On the top right corner, the top 3 clients number of those clients who contributed to most of the revenue, are displayed. The background calculation is the total absolute difference in the actual price and calculated price.
 
 ### Info graphs
+
+
+<img width="874" alt="infographs" src="https://github.com/NikhilSalv/PowerBI_Developer/assets/74225565/7a339f11-e23e-4606-9d78-6d7d3105d475">
 
 The above figure shows the main info graphs as stated below:
 
