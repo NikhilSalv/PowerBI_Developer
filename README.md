@@ -61,6 +61,9 @@ Data enhancement is necessary for several reasons, and it plays a crucial role i
 
 ### Slicers
 
+<img width="851" alt="slicers" src="https://github.com/NikhilSalv/PowerBI_Developer/assets/74225565/1c55e3ff-90ce-45e5-9727-b314371d1dca">
+
+
 As shown in the picture, the slicers provide options to choose the FBU, quarter of the years, Year, category of invoice and Client number.
 
 ### KPIs
